@@ -1,5 +1,8 @@
 # Depression Dataset Analysis
 To be continued, try to solve
+
+![image alt](https://github.com/Saimoguloju/Depression-Dataset-Analysis/blob/master/Accuracy%20Scores%20of%20Different%20Models.png)
+
 # Next Steps
 1. Evaluate and Tune Models: Perform hyperparameter tuning using cross-validation for the best-performing models (Logistic Regression and Gradient Boosting).
 2. Regularization: Apply regularization to Logistic Regression to see if it improves generalization.
