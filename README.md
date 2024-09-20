@@ -1,6 +1,6 @@
 # Depression Dataset Analysis
 To be continued, try to solve
-
+# Accuracy Scores of Different Models
 ![image alt](https://github.com/Saimoguloju/Depression-Dataset-Analysis/blob/master/Accuracy%20Scores%20of%20Different%20Models.png)
 
 # Next Steps
